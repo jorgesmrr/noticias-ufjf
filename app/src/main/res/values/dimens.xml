@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="margem_tela">16dp</dimen>
+    <dimen name="margem_view">16dp</dimen>
+
+    <dimen name="touchable">48dp</dimen>
+</resources>

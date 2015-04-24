@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaria">#b01116</color>
+    <color name="secundaria">#810d10</color>
+    <color name="destaque">#ffffe95f</color>
+</resources>
